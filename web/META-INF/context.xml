@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context antiJARLocking="true" path="/FKDUMX">
+<Context antiJARLocking="true" path="/FKDUMX_JavaWebApp">
     <Resource name="connectionPool" auth="Container" type="javax.sql.DataSource"
               maxActive="100" maxIdle="30" maxWait="10000"
-              username="root" password="bank0426" driverClassName="com.mysql.jdbc.Driver"
+              username="root" password="password" driverClassName="com.mysql.jdbc.Driver"
               url="jdbc:mysql://localhost:3306/java_web"/>
 </Context>
